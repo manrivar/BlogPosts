@@ -1,2 +1,2 @@
-# blogPosts
+# BlogPosts
 Curso Flask - Proyecto #2
